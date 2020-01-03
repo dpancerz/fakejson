@@ -1,0 +1,78 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "brazuca",
+      "category": "ball",
+      "producer": "adidas",
+      "price": 50.0
+    },
+    {
+      "id": 2,
+      "name": "roteiro",
+      "category": "ball",
+      "producer": "adidas",
+      "price": 40.0
+    },
+    {
+      "id": 3,
+      "name": "T90",
+      "category": "ball",
+      "producer": "nike",
+      "price": 90.0
+    },
+    {
+      "id": 4,
+      "name": "FC Barcelona Jersey",
+      "category": "jersey",
+      "producer": "nike",
+      "price": 85.0
+    },
+    {
+      "id": 5,
+      "name": "Real Madrid CF Jersey",
+      "category": "jersey",
+      "producer": "adidas",
+      "price": 85.0
+    },
+    {
+      "id": 6,
+      "name": "Air Jordan",
+      "category": "shoes",
+      "producer": "nike",
+      "price": 245.0
+    },
+    {
+      "id": 7,
+      "name": "Keiser",
+      "category": "shoes",
+      "producer": "adidas",
+      "price": 95.0
+    }
+  ],
+  "categories": [
+    {
+      "id": "ball",
+      "name": "Ball"
+    },
+    {
+      "id": "jersey",
+      "name": "Jersey"
+    },
+    {
+      "id": "shoes",
+      "name": "Shoes"
+    }
+  ],
+  "producers" [
+    {
+      "name": "nike"
+    },
+    {
+      "name": "adidas"
+    },
+    {
+      "name": "reebok"
+    }
+  ]
+}
