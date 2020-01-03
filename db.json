@@ -64,7 +64,7 @@
       "name": "Shoes"
     }
   ],
-  "producers" [
+  "producers": [
     {
       "name": "nike"
     },
