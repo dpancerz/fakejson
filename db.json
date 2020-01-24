@@ -66,13 +66,16 @@
   ],
   "producers": [
     {
-      "name": "nike"
+      "id": "reebok"
+      "name": "Nike"
     },
     {
-      "name": "adidas"
+      "id": "reebok"
+      "name": "Adidas"
     },
     {
-      "name": "reebok"
+      "id": "reebok"
+      "name": "Reebok"
     }
   ]
 }
