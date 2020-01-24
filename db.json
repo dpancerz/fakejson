@@ -66,11 +66,11 @@
   ],
   "producers": [
     {
-      "id": "reebok",
+      "id": "nike",
       "name": "Nike"
     },
     {
-      "id": "reebok",
+      "id": "adidas",
       "name": "Adidas"
     },
     {
